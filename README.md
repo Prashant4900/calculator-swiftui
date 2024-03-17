@@ -15,7 +15,7 @@ To run this project locally on your machine, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 ```bash
-  git clone https://github.com/your-username/swiftui-calculator.git
+  git clone https://github.com/Prashant4900/calculator-swiftui.git
 ```
 2. Open the project in Xcode.
 3. Build and run the project using the iOS Simulator or your connected iOS device.
